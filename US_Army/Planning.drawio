@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Strona-1" id="BBOQiUGvL47wXQ2HDbsv">
-    <mxGraphModel dx="1877" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3452" dy="1405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -103,7 +103,7 @@
           <mxGeometry x="-533" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a_fJLX3D4ddXMOc15b3K-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="920" width="500" height="530" as="geometry" />
         </mxCell>
         <mxCell id="a_fJLX3D4ddXMOc15b3K-3" value="Civillians" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="120" width="120" height="60" as="geometry" />
