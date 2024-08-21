@@ -47,7 +47,7 @@
             <mxPoint x="-400" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k31KLtlGpHvFteeG_nSf-3" value="US Army" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="k31KLtlGpHvFteeG_nSf-3" value="US Military" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k31KLtlGpHvFteeG_nSf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="k31KLtlGpHvFteeG_nSf-5" target="k31KLtlGpHvFteeG_nSf-9" edge="1">
@@ -78,7 +78,7 @@
           <mxGeometry x="900" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k31KLtlGpHvFteeG_nSf-19" value="Navy" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-170" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="-140" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k31KLtlGpHvFteeG_nSf-21" value="Marines" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="520" width="120" height="60" as="geometry" />
@@ -372,6 +372,9 @@
         </mxCell>
         <mxCell id="a-VC0dxoUx-i3-k2DaDm-49" value="Infantry" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-420" y="2364" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a-VC0dxoUx-i3-k2DaDm-56" value="US Army" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
