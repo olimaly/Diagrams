@@ -173,6 +173,9 @@
             <mxPoint x="570" y="1980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="a_fJLX3D4ddXMOc15b3K-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a_fJLX3D4ddXMOc15b3K-23" target="a_fJLX3D4ddXMOc15b3K-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="a_fJLX3D4ddXMOc15b3K-23" value="Parade Ground" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="1800" width="152" height="110" as="geometry" />
         </mxCell>
@@ -185,7 +188,7 @@
           <mxGeometry x="590" y="1820" width="152" height="70" as="geometry" />
         </mxCell>
         <mxCell id="a_fJLX3D4ddXMOc15b3K-28" value="Military Police Jail" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="176" y="1719" width="152" height="70" as="geometry" />
+          <mxGeometry x="174" y="1684" width="152" height="70" as="geometry" />
         </mxCell>
         <mxCell id="a_fJLX3D4ddXMOc15b3K-34" value="Instructors" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="514" y="1980" width="112" height="50" as="geometry" />
@@ -197,10 +200,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="a_fJLX3D4ddXMOc15b3K-33" value="Obby" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="176" y="1830" width="112" height="120" as="geometry" />
+          <mxGeometry x="162" y="1880" width="112" height="120" as="geometry" />
         </mxCell>
         <mxCell id="a_fJLX3D4ddXMOc15b3K-40" value="Firing Range" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="174" y="1980" width="112" height="120" as="geometry" />
+          <mxGeometry x="160" y="2030" width="112" height="120" as="geometry" />
         </mxCell>
         <mxCell id="a_fJLX3D4ddXMOc15b3K-44" value="Headquarters" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="1980" width="112" height="50" as="geometry" />
@@ -279,6 +282,9 @@
         </mxCell>
         <mxCell id="a_fJLX3D4ddXMOc15b3K-76" value="Parking" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="208" y="1600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_fJLX3D4ddXMOc15b3K-77" value="Garage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="162" y="1770" width="152" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
