@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Strona-1" id="BBOQiUGvL47wXQ2HDbsv">
-    <mxGraphModel dx="1827" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,16 +31,10 @@
         <mxCell id="k31KLtlGpHvFteeG_nSf-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="k31KLtlGpHvFteeG_nSf-3" target="k31KLtlGpHvFteeG_nSf-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k31KLtlGpHvFteeG_nSf-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="k31KLtlGpHvFteeG_nSf-3" target="k31KLtlGpHvFteeG_nSf-25" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="k31KLtlGpHvFteeG_nSf-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="k31KLtlGpHvFteeG_nSf-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="110" y="350" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="k31KLtlGpHvFteeG_nSf-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="k31KLtlGpHvFteeG_nSf-3" target="k31KLtlGpHvFteeG_nSf-27" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k31KLtlGpHvFteeG_nSf-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k31KLtlGpHvFteeG_nSf-3" target="k31KLtlGpHvFteeG_nSf-44" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -86,14 +80,8 @@
         <mxCell id="k31KLtlGpHvFteeG_nSf-22" value="Air Force" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-140" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k31KLtlGpHvFteeG_nSf-25" value="Air Borne" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-330" y="520" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="k31KLtlGpHvFteeG_nSf-27" value="Military Police" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-330" y="290" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="k31KLtlGpHvFteeG_nSf-44" value="Space Forces" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-500" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="-310" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a_fJLX3D4ddXMOc15b3K-3" value="Civillians" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="120" width="120" height="60" as="geometry" />
