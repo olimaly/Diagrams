@@ -10,6 +10,15 @@
         <mxCell id="k31KLtlGpHvFteeG_nSf-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="k31KLtlGpHvFteeG_nSf-2" target="k31KLtlGpHvFteeG_nSf-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="a_fJLX3D4ddXMOc15b3K-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="k31KLtlGpHvFteeG_nSf-2" target="a_fJLX3D4ddXMOc15b3K-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_fJLX3D4ddXMOc15b3K-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="k31KLtlGpHvFteeG_nSf-2" target="a_fJLX3D4ddXMOc15b3K-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_fJLX3D4ddXMOc15b3K-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="k31KLtlGpHvFteeG_nSf-2" target="a_fJLX3D4ddXMOc15b3K-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="k31KLtlGpHvFteeG_nSf-2" value="USA" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="240" width="120" height="60" as="geometry" />
         </mxCell>
@@ -92,6 +101,18 @@
         </mxCell>
         <mxCell id="k31KLtlGpHvFteeG_nSf-44" value="Space Forces" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-533" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_fJLX3D4ddXMOc15b3K-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_fJLX3D4ddXMOc15b3K-3" value="Civillians" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_fJLX3D4ddXMOc15b3K-5" value="Hostiles" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_fJLX3D4ddXMOc15b3K-7" value="Immigrants" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
