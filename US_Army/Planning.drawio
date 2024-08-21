@@ -298,14 +298,11 @@
         <mxCell id="a-VC0dxoUx-i3-k2DaDm-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="a-VC0dxoUx-i3-k2DaDm-29" target="a-VC0dxoUx-i3-k2DaDm-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a-VC0dxoUx-i3-k2DaDm-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="a-VC0dxoUx-i3-k2DaDm-29" target="a-VC0dxoUx-i3-k2DaDm-38" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="a-VC0dxoUx-i3-k2DaDm-29" value="&lt;div&gt;Division&lt;/div&gt;&lt;div&gt;(4 platoons)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-570" y="1760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a-VC0dxoUx-i3-k2DaDm-31" value="Regiments" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-350" y="1580" width="140" height="120" as="geometry" />
+          <mxGeometry x="-380" y="1730" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="a-VC0dxoUx-i3-k2DaDm-32" value="Tanks" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="a-VC0dxoUx-i3-k2DaDm-31" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -314,18 +311,6 @@
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a-VC0dxoUx-i3-k2DaDm-34" value="Transporters" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="a-VC0dxoUx-i3-k2DaDm-31" vertex="1">
-          <mxGeometry y="90" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="a-VC0dxoUx-i3-k2DaDm-37" value="Branches" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-350" y="1770" width="140" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="a-VC0dxoUx-i3-k2DaDm-38" value="Navy" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="a-VC0dxoUx-i3-k2DaDm-37" vertex="1">
-          <mxGeometry y="30" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="a-VC0dxoUx-i3-k2DaDm-39" value="Air force" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="a-VC0dxoUx-i3-k2DaDm-37" vertex="1">
-          <mxGeometry y="60" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="a-VC0dxoUx-i3-k2DaDm-40" value="Marines" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="a-VC0dxoUx-i3-k2DaDm-37" vertex="1">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a-VC0dxoUx-i3-k2DaDm-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a-VC0dxoUx-i3-k2DaDm-42" edge="1">
@@ -348,11 +333,22 @@
         <mxCell id="a-VC0dxoUx-i3-k2DaDm-44" value="US Army" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-420" y="2200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="38wvSkfyoHQ7_8SS0Itx-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a-VC0dxoUx-i3-k2DaDm-45" target="38wvSkfyoHQ7_8SS0Itx-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="a-VC0dxoUx-i3-k2DaDm-45" value="Military Police" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-580" y="2320" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="38wvSkfyoHQ7_8SS0Itx-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a-VC0dxoUx-i3-k2DaDm-47" target="38wvSkfyoHQ7_8SS0Itx-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="a-VC0dxoUx-i3-k2DaDm-47" value="Drill Instructors" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-260" y="2320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="38wvSkfyoHQ7_8SS0Itx-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a-VC0dxoUx-i3-k2DaDm-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-360" y="2470" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="a-VC0dxoUx-i3-k2DaDm-49" value="Infantry" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-420" y="2364" width="120" height="60" as="geometry" />
@@ -365,6 +361,45 @@
         </mxCell>
         <mxCell id="38wvSkfyoHQ7_8SS0Itx-5" value="Officers School" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="38wvSkfyoHQ7_8SS0Itx-18" value="Equipment" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="2470" width="140" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="38wvSkfyoHQ7_8SS0Itx-19" value="Mortars" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="38wvSkfyoHQ7_8SS0Itx-18">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="38wvSkfyoHQ7_8SS0Itx-20" value="CKMs" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="38wvSkfyoHQ7_8SS0Itx-18">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="38wvSkfyoHQ7_8SS0Itx-22" value="Long range rifles" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="38wvSkfyoHQ7_8SS0Itx-18">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="38wvSkfyoHQ7_8SS0Itx-23" value="Assault rifles" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="38wvSkfyoHQ7_8SS0Itx-18">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="38wvSkfyoHQ7_8SS0Itx-24" value="Bazookas" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="38wvSkfyoHQ7_8SS0Itx-18">
+          <mxGeometry y="150" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="38wvSkfyoHQ7_8SS0Itx-25" value="Equipment" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="2420" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="38wvSkfyoHQ7_8SS0Itx-28" value="Cuffs" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="38wvSkfyoHQ7_8SS0Itx-25">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="38wvSkfyoHQ7_8SS0Itx-29" value="Assault rifles" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="38wvSkfyoHQ7_8SS0Itx-25">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="38wvSkfyoHQ7_8SS0Itx-32" value="Pistol" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="38wvSkfyoHQ7_8SS0Itx-25">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="38wvSkfyoHQ7_8SS0Itx-33" value="Equipment" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="2420" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="38wvSkfyoHQ7_8SS0Itx-34" value="Whisper" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="38wvSkfyoHQ7_8SS0Itx-33">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="38wvSkfyoHQ7_8SS0Itx-36" value="Pistol" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="38wvSkfyoHQ7_8SS0Itx-33">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
