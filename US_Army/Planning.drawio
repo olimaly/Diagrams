@@ -419,6 +419,15 @@
         <mxCell id="38wvSkfyoHQ7_8SS0Itx-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="38wvSkfyoHQ7_8SS0Itx-40" target="38wvSkfyoHQ7_8SS0Itx-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="38wvSkfyoHQ7_8SS0Itx-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="38wvSkfyoHQ7_8SS0Itx-40" target="38wvSkfyoHQ7_8SS0Itx-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="38wvSkfyoHQ7_8SS0Itx-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="38wvSkfyoHQ7_8SS0Itx-40" target="38wvSkfyoHQ7_8SS0Itx-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="38wvSkfyoHQ7_8SS0Itx-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="38wvSkfyoHQ7_8SS0Itx-40" target="38wvSkfyoHQ7_8SS0Itx-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="38wvSkfyoHQ7_8SS0Itx-40" value="Events" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="208" y="920" width="120" height="60" as="geometry" />
         </mxCell>
@@ -436,6 +445,15 @@
         </mxCell>
         <mxCell id="38wvSkfyoHQ7_8SS0Itx-49" value="Combat Simulation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-150" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="38wvSkfyoHQ7_8SS0Itx-51" value="Trainings" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="790" width="126" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="38wvSkfyoHQ7_8SS0Itx-54" value="First Aid Class" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="17" y="790" width="126" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="38wvSkfyoHQ7_8SS0Itx-56" value="Trainings" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="394" y="790" width="126" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
