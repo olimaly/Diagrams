@@ -170,14 +170,13 @@
         <mxCell id="a_fJLX3D4ddXMOc15b3K-34" value="Instructors" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="514" y="1980" width="112" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="a_fJLX3D4ddXMOc15b3K-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a_fJLX3D4ddXMOc15b3K-23" target="a_fJLX3D4ddXMOc15b3K-33" edge="1">
+        <mxCell id="38wvSkfyoHQ7_8SS0Itx-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a_fJLX3D4ddXMOc15b3K-33">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230.00000000000023" y="1855" as="targetPoint" />
-            <mxPoint x="370" y="1855" as="sourcePoint" />
+            <mxPoint x="1010" y="1750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="a_fJLX3D4ddXMOc15b3K-33" value="Obby" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="162" y="1880" width="112" height="120" as="geometry" />
+          <mxGeometry x="1048" y="1850" width="112" height="310" as="geometry" />
         </mxCell>
         <mxCell id="a_fJLX3D4ddXMOc15b3K-40" value="Firing Range" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="2030" width="112" height="120" as="geometry" />
@@ -454,6 +453,14 @@
         </mxCell>
         <mxCell id="38wvSkfyoHQ7_8SS0Itx-56" value="Trainings" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="394" y="790" width="126" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="38wvSkfyoHQ7_8SS0Itx-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="38wvSkfyoHQ7_8SS0Itx-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="1930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="38wvSkfyoHQ7_8SS0Itx-59" value="Hospital" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="156" y="1870" width="152" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
