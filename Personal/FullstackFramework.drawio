@@ -284,7 +284,7 @@
           <mxGeometry y="86" width="230" height="26" as="geometry" />
         </mxCell>
         <mxCell id="PejXEIsaFlRkTcH4WxqB-102" value="Handlers" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="1240" width="230" height="112" as="geometry" />
+          <mxGeometry x="-280" y="1200" width="230" height="138" as="geometry" />
         </mxCell>
         <mxCell id="PejXEIsaFlRkTcH4WxqB-103" value="+ Framework" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="PejXEIsaFlRkTcH4WxqB-102">
           <mxGeometry y="26" width="230" height="26" as="geometry" />
@@ -297,6 +297,9 @@
         </mxCell>
         <mxCell id="PejXEIsaFlRkTcH4WxqB-106" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="PejXEIsaFlRkTcH4WxqB-102">
           <mxGeometry y="104" width="230" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="PejXEIsaFlRkTcH4WxqB-137" value="+ main()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="PejXEIsaFlRkTcH4WxqB-102">
+          <mxGeometry y="112" width="230" height="26" as="geometry" />
         </mxCell>
         <mxCell id="PejXEIsaFlRkTcH4WxqB-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PejXEIsaFlRkTcH4WxqB-109" target="PejXEIsaFlRkTcH4WxqB-110">
           <mxGeometry relative="1" as="geometry" />
@@ -327,6 +330,30 @@
         </mxCell>
         <mxCell id="PejXEIsaFlRkTcH4WxqB-133" value="Poprzez tag &quot;Tool&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="674" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PejXEIsaFlRkTcH4WxqB-135" value="loadHandlers()&lt;div&gt;- inject, and just run main&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="1150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PejXEIsaFlRkTcH4WxqB-140" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PejXEIsaFlRkTcH4WxqB-142" target="PejXEIsaFlRkTcH4WxqB-138">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="413" y="910" as="sourcePoint" />
+            <mxPoint x="528" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PejXEIsaFlRkTcH4WxqB-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PejXEIsaFlRkTcH4WxqB-138" target="PejXEIsaFlRkTcH4WxqB-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PejXEIsaFlRkTcH4WxqB-138" value="loadServices()&lt;div&gt;- inject, and just run main&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PejXEIsaFlRkTcH4WxqB-143" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PejXEIsaFlRkTcH4WxqB-115" target="PejXEIsaFlRkTcH4WxqB-142">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="413" y="910" as="sourcePoint" />
+            <mxPoint x="413" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PejXEIsaFlRkTcH4WxqB-142" value="loadInterfaces()&lt;div&gt;- inject, and just run main with passed gui by collection service (tag &quot;Interface&quot;)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="940" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
