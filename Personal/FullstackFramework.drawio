@@ -353,7 +353,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PejXEIsaFlRkTcH4WxqB-142" value="loadInterfaces()&lt;div&gt;- inject, and just run main with passed gui by collection service (tag &quot;Interface&quot;)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="940" width="120" height="80" as="geometry" />
+          <mxGeometry x="354" y="940" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
