@@ -134,6 +134,71 @@
         <mxCell id="pymyXbvmwVOLHeFxz3Gz-3" value="Operative" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="pymyXbvmwVOLHeFxz3Gz-1">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="pymyXbvmwVOLHeFxz3Gz-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pymyXbvmwVOLHeFxz3Gz-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-510" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pymyXbvmwVOLHeFxz3Gz-13" value="Create Elevators from class" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pymyXbvmwVOLHeFxz3Gz-6">
+          <mxGeometry x="-0.0678" relative="1" as="geometry">
+            <mxPoint x="80" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pymyXbvmwVOLHeFxz3Gz-5" value="ElevatorService" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pymyXbvmwVOLHeFxz3Gz-9" value="Elevator" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-625" y="630" width="230" height="164" as="geometry" />
+        </mxCell>
+        <mxCell id="pymyXbvmwVOLHeFxz3Gz-10" value="+ Doors: {Up, Down}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="pymyXbvmwVOLHeFxz3Gz-9">
+          <mxGeometry y="26" width="230" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="pymyXbvmwVOLHeFxz3Gz-15" value="+ CurrentDoor: Model (Up/Down)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="pymyXbvmwVOLHeFxz3Gz-9">
+          <mxGeometry y="52" width="230" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="pymyXbvmwVOLHeFxz3Gz-11" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="pymyXbvmwVOLHeFxz3Gz-9">
+          <mxGeometry y="78" width="230" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="pymyXbvmwVOLHeFxz3Gz-12" value="+ moveElevator()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="pymyXbvmwVOLHeFxz3Gz-9">
+          <mxGeometry y="86" width="230" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="pymyXbvmwVOLHeFxz3Gz-16" value="+ CloseDoor()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="pymyXbvmwVOLHeFxz3Gz-9">
+          <mxGeometry y="112" width="230" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="pymyXbvmwVOLHeFxz3Gz-17" value="+ OpenDoor()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="pymyXbvmwVOLHeFxz3Gz-9">
+          <mxGeometry y="138" width="230" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="pymyXbvmwVOLHeFxz3Gz-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pymyXbvmwVOLHeFxz3Gz-19" target="pymyXbvmwVOLHeFxz3Gz-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-250" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pymyXbvmwVOLHeFxz3Gz-19" value="Move&lt;div&gt;Elevator()&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="510" width="100" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="pymyXbvmwVOLHeFxz3Gz-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pymyXbvmwVOLHeFxz3Gz-21" target="pymyXbvmwVOLHeFxz3Gz-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pymyXbvmwVOLHeFxz3Gz-21" value="Close&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Current&lt;/span&gt;&lt;div&gt;Door&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="600" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pymyXbvmwVOLHeFxz3Gz-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pymyXbvmwVOLHeFxz3Gz-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-250" y="754" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pymyXbvmwVOLHeFxz3Gz-22" value="Elevator Sounds" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="680" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pymyXbvmwVOLHeFxz3Gz-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pymyXbvmwVOLHeFxz3Gz-26" target="pymyXbvmwVOLHeFxz3Gz-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pymyXbvmwVOLHeFxz3Gz-26" value="TP Players" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="754" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pymyXbvmwVOLHeFxz3Gz-27" value="Change Current&lt;div&gt;Door &amp;amp; Open&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="830" width="100" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
